@@ -10,6 +10,7 @@ export class MoviesService {
     this.apikey = 'fed69657ba4cc6e1078d2a6a95f51c8c';
     console.log('Movies service is ready');
   }
+  DJDJJDJDJDJJDJDJDJJDDJDJ
 
   getPopular() {
     var search = new URLSearchParams();
